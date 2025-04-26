@@ -47,7 +47,7 @@ Todos os fitros das páginas de busca ou sebo-livreiros estão disponíveis e po
 
 ---
 ## Dicas
-- Se na utilização da classe **WeslleyRAraujo\EstanteVirtual\Search\Busca\Searcher** os dados **brand, department, gender e productType** dos itens forem essenciais faça a pesquisa duas vezes, por algum motivo na primeira requisição a estante virtual não retorna esses dados mas na segunda requisição eles aparecem, provavelmente é algo relacionado ao cache da página.
+- Se na utilização da classe **WeslleyRAraujo\EstanteVirtual\Search\Busca\Searcher** se os dados **brand, department, gender e productType** dos itens forem essenciais faça a pesquisa duas vezes, por algum motivo na primeira requisição a estante virtual não retorna esses dados mas na segunda requisição eles aparecem, provavelmente é algo relacionado ao cache da página.
 
 ---
 ## Mais
