@@ -24,7 +24,7 @@ var_dump($books);
 
 ##### Onde eu consigo o seller ID e o name?
 Aqui está um exemplo de onde conseguir essas informações:
-[foto aqui]
+![2025-04-26_16-25](https://github.com/user-attachments/assets/93959fc3-32c2-4015-9d24-9108b628544e)
 O name faz parte da rota e o seller ID é o parâmetro *sellerId* da URL
 
 ### Para pesquisa livre:
@@ -43,7 +43,7 @@ var_dump($result);
 ### Filtros padrão do site
 
 Todos os fitros das páginas de busca ou sebo-livreiros estão disponíveis e podem ser consultados no arquivo: **Search/DefaultSearchProperties.php**, os atributos definidos a cada um mostra qual filtro está disponível, há filtros como **Condição do livro [bookCondition]** que existem em ambas as buscas mas outros estão disponíveis apenas para pesquisa livre ou por sebo/livraria.
-[foto_dos_filtros_aqui]
+![image](https://github.com/user-attachments/assets/6ce71e2b-3bca-4e1e-8b48-f3fccc46ca12)
 
 ---
 ## Dicas
