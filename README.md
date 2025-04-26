@@ -52,4 +52,4 @@ Todos os fitros das páginas de busca ou sebo-livreiros estão disponíveis e po
 ---
 ## Mais
 Encontrou algum bug? Abra uma issue! <br>
-Quer contribuir? Solicite uma pull request!
+Quer contribuir? Solicite um pull request!
