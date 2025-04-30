@@ -4,19 +4,19 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "WeslleyRAraujo\\EstanteVirtual\\Helpers\\": "Helpers/",
+            "WeslleyRAraujo\\EstanteVirtual\\Helpers\\": "src/Helpers/",
 
-            "WeslleyRAraujo\\EstanteVirtual\\Interfaces\\": "Interfaces/",
+            "WeslleyRAraujo\\EstanteVirtual\\Interfaces\\": "src/Interfaces/",
 
-            "WeslleyRAraujo\\EstanteVirtual\\Reflection\\": "Reflection/",
+            "WeslleyRAraujo\\EstanteVirtual\\Reflection\\": "src/Reflection/",
 
-            "WeslleyRAraujo\\EstanteVirtual\\Search\\": "Search/",
-            "WeslleyRAraujo\\EstanteVirtual\\Search\\Busca\\": "Search/Busca/",
-            "WeslleyRAraujo\\EstanteVirtual\\Search\\SeboLivreiros\\": "Search/SeboLivreiros/",
+            "WeslleyRAraujo\\EstanteVirtual\\Search\\": "src/Search/",
+            "WeslleyRAraujo\\EstanteVirtual\\Search\\Busca\\": "src/Search/Busca/",
+            "WeslleyRAraujo\\EstanteVirtual\\Search\\SeboLivreiros\\": "src/Search/SeboLivreiros/",
 
-            "WeslleyRAraujo\\EstanteVirtual\\SearchTypes\\": "SearchTypes/",
+            "WeslleyRAraujo\\EstanteVirtual\\SearchTypes\\": "src/SearchTypes/",
 
-            "WeslleyRAraujo\\EstanteVirtual\\SortFilters\\": "SortFilters/"
+            "WeslleyRAraujo\\EstanteVirtual\\SortFilters\\": "src/SortFilters/"
         }
     },
     "authors": [
